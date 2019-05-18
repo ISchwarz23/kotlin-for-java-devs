@@ -11,7 +11,7 @@ fun main() {
         Container(
             Text("World"),
             Container(
-                Text("from"),
+                Text("fromService"),
                 Text("Kotlin")
             ),
             Text("example")
